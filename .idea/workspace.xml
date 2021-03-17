@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7bd4279-ebe6-470a-b1f5-cd5ead3fdda6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/css/specificity1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/specificity2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/specificity3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/specificity4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/specificity5.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +31,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/css" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -58,7 +69,16 @@
       <workItem from="1615276068983" duration="1197000" />
       <workItem from="1615361898536" duration="518000" />
       <workItem from="1615446992236" duration="593000" />
-      <workItem from="1615475800863" duration="4644000" />
+      <workItem from="1615475800863" duration="4809000" />
+      <workItem from="1615557569076" duration="529000" />
+      <workItem from="1615581173816" duration="866000" />
+      <workItem from="1615668790335" duration="586000" />
+      <workItem from="1615723052728" duration="590000" />
+      <workItem from="1615799847933" duration="675000" />
+      <workItem from="1615814052669" duration="591000" />
+      <workItem from="1615879567120" duration="521000" />
+      <workItem from="1615929461707" duration="530000" />
+      <workItem from="1615966071919" duration="2025000" />
     </task>
     <servers />
   </component>

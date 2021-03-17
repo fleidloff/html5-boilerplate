@@ -1,0 +1,7 @@
+.articleList .item {
+    background: red;
+}
+
+main .articleList > div {
+    background: blue;
+}
