@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7bd4279-ebe6-470a-b1f5-cd5ead3fdda6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/css/specificity1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/specificity2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/specificity3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/specificity4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/specificity5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/repaint.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
@@ -78,7 +74,11 @@
       <workItem from="1615814052669" duration="591000" />
       <workItem from="1615879567120" duration="521000" />
       <workItem from="1615929461707" duration="530000" />
-      <workItem from="1615966071919" duration="2025000" />
+      <workItem from="1615966071919" duration="2650000" />
+      <workItem from="1615984249351" duration="579000" />
+      <workItem from="1616052627680" duration="521000" />
+      <workItem from="1616097494342" duration="1094000" />
+      <workItem from="1616140844134" duration="2469000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,6 @@
 const testModules = require('./test-module');
 const perf = require('./perf');
+const repaint = require('./repaint');
 require('./copyNodes');
 require('../css/app.css');
 
@@ -11,5 +12,7 @@ require('../css/app.css');
 // require('../css/specificity4.css');
 // require('../css/specificity5.css');
 
+// REPAINT
+//setTimeout(repaint, 500);
 
 perf();
