@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7bd4279-ebe6-470a-b1f5-cd5ead3fdda6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/repaint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/batchDomChanges.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +77,10 @@
       <workItem from="1615984249351" duration="579000" />
       <workItem from="1616052627680" duration="521000" />
       <workItem from="1616097494342" duration="1094000" />
-      <workItem from="1616140844134" duration="2469000" />
+      <workItem from="1616140844134" duration="3057000" />
+      <workItem from="1616429249354" duration="598000" />
+      <workItem from="1616484667507" duration="535000" />
+      <workItem from="1616534038914" duration="1092000" />
     </task>
     <servers />
   </component>
