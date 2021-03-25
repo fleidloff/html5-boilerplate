@@ -1,4 +1,4 @@
-
+module.exports = repaint;
 
 function repaint() {
   const items = document.getElementsByClassName('item');
@@ -8,6 +8,9 @@ function repaint() {
     item.style.height = height + 10 + 'px';
   })
 }
+
+
+
 
 function repaint2() {
   const items = document.getElementsByClassName('item');
@@ -23,4 +26,3 @@ function repaint2() {
   })
 }
 
-module.exports = repaint;

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7bd4279-ebe6-470a-b1f5-cd5ead3fdda6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/batchDomChanges.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/specificity5.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/specificity0.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/batchDomChanges.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/batchDomChanges.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/repaint.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/repaint.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,8 @@
       <workItem from="1616140844134" duration="3057000" />
       <workItem from="1616429249354" duration="598000" />
       <workItem from="1616484667507" duration="535000" />
-      <workItem from="1616534038914" duration="1092000" />
+      <workItem from="1616534038914" duration="1960000" />
+      <workItem from="1616670826283" duration="2196000" />
     </task>
     <servers />
   </component>
