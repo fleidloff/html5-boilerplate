@@ -17,6 +17,6 @@ require('../css/app.css');
 //setTimeout(batchDomChanges, 1500);
 
 // REPAINT
-setTimeout(repaint, 500);
+//setTimeout(repaint, 500);
 
 perf();
